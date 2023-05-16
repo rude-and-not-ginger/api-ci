@@ -1,0 +1,1 @@
+SAMPLE [![Build status](https://ci.appveyor.com/api/projects/status/mhynjg0glm6rb478?svg=true)](https://ci.appveyor.com/project/rude-and-not-ginger/api-ci)

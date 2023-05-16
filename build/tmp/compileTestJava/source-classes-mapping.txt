@@ -1,0 +1,12 @@
+ru/netology/rest/MobileBankApiTestV1.java
+ ru.netology.rest.MobileBankApiTestV1
+ru/netology/rest/MobileBankApiTestV4.java
+ ru.netology.rest.MobileBankApiTestV4
+ru/netology/rest/MobileBankApiTestV5.java
+ ru.netology.rest.MobileBankApiTestV5
+ru/netology/rest/MobileBankApiTestV2.java
+ ru.netology.rest.MobileBankApiTestV2
+ru/netology/rest/MobileBankApiTestV6.java
+ ru.netology.rest.MobileBankApiTestV6
+ru/netology/rest/MobileBankApiTestV3.java
+ ru.netology.rest.MobileBankApiTestV3
